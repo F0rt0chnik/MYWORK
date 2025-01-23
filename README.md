@@ -1,2 +1,2 @@
 # MYWORK
-This repository contains part of the solution to machine learning problems of varying complexity.
+К сожалению, на Гитхабе есть ограничения, поэтому огромное количество заданий, с которыми мне приходилось сталкиваться, сюда не поместились.
